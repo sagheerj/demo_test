@@ -1,0 +1,29 @@
+
+
+ world hello 
+
+
+
+--
+
+
+
+exit
+
+
+eixt
+~
+
+
+
+
+
+
+
+
+
+-- INSERT --
+exit
+
+git add test.txt
+
